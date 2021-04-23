@@ -1,0 +1,10 @@
+Z:\D\git\Move2\bin\Debug\Move2.exe.config
+Z:\D\git\Move2\bin\Debug\Move2.exe
+Z:\D\git\Move2\bin\Debug\Move2.pdb
+Z:\D\git\Move2\obj\Debug\Move2.csprojAssemblyReference.cache
+Z:\D\git\Move2\obj\Debug\Move2.csproj.CoreCompileInputs.cache
+Z:\D\git\Move2\obj\Debug\Move2.exe
+Z:\D\git\Move2\obj\Debug\Move2.pdb
+Z:\D\git\Move2\bin\Debug\log4net.config
+Z:\D\git\Move2\bin\Debug\log4net.dll
+Z:\D\git\Move2\obj\Debug\Move2.csproj.CopyComplete
